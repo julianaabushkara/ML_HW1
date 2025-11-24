@@ -1,4 +1,4 @@
-# Machine Learning Homework 1: ANN & KNN on SIFT Features
+# ANN & KNN on SIFT Features
 
 ## Project Overview
 
